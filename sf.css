@@ -1,0 +1,28 @@
+body{
+    color:gray;
+    margin:50px;
+    padding:20px;
+    text-align:left;
+}
+#bir{
+    width: 450px;
+}
+h1{
+    color:black;
+    font-family:'Times New Roman', serif;
+    font-weight: lighter;
+    font-size: 40px;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    line-height: 0px;
+
+}
+#name{
+    border-color:aqua;
+    border-width: 1px;
+}
+
+.container input:checked ~ .checkmark {
+    color:black;
+    background-color: #181ce6;
+  }
